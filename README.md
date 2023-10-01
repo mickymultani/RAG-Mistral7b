@@ -1,5 +1,5 @@
 # RAG-Mistral7b
-RAG (Retrievel Augmented Generation) implementation using the **Mistral-7B-Instruct-v0.1 **
+RAG (Retrievel Augmented Generation) implementation using the **Mistral-7B-Instruct-v0.1**
 
 ## Project Description
 This repository contains the implementation of the Retrieval Augmented Generation (RAG) model, using the newly released Mistral-7B-Instruct-v0.1 as the Language Model, SentenceTransformers for embedding, and llama-index for data ingestion, vectorization, and storage. The model has been implemented in a Google Colab notebook, optimized for a v100 instance.
@@ -41,7 +41,7 @@ The implementation focuses on querying data from Amazon’s Annual Report for th
 Follow the instructions in the `RAG_testing_mistral7b.ipynb` notebook to run the cells and execute the implementation on Google Colab.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 - The entire team at Mistral for the powerful language model.
