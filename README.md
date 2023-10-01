@@ -17,7 +17,7 @@ The implementation focuses on querying data from Amazon’s Annual Report for th
 ## Quick Start
 1. Clone the repository:
    ```shell
-   git clone <repository_url>
+   git clone https://github.com/mickymult/RAG-Mistral7b.git
    ```
 2. Open the `RAG_testing_mistral7b.ipynb` notebook in Google Colab.
 3. Set up the environment with the necessary libraries and dependencies.
